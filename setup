@@ -1,0 +1,5 @@
+conda install -c conda-forge tensorflow 
+conda install -c conda-forge tensorflow -gpu
+conda install -c conda-forge tensorflow-hub ==0.3.0
+conda install tflearn
+conda install numpy 

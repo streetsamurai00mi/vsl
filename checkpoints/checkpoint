@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/trandat/Documents/hand-sign-lang-recog/checkpoints/non_pool.model"
+all_model_checkpoint_paths: "/home/trandat/Documents/hand-sign-lang-recog/checkpoints/non_pool.model"

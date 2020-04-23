@@ -1,0 +1,3 @@
+gold, pred
+ba ba
+ba ba
